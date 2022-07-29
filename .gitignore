@@ -7,3 +7,6 @@ rubygems/*
 tmp/*
 flutter_comp-pdf/*
 flutter_comp-md/*
+contents_orig/*
+images_orig/*
+flutter_comp.pdf
