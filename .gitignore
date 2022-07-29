@@ -1,0 +1,9 @@
+.DS_Store
+*~
+*.bak
+*.yml.orig
+#*.erb.orig
+rubygems/*
+tmp/*
+flutter_comp-pdf/*
+flutter_comp-md/*
